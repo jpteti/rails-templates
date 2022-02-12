@@ -2,3 +2,4 @@
 --skip-test
 --database=postgresql
 -m https://raw.githubusercontent.com/jpteti/rails-templates/main/local.rb
+--css=bulma
